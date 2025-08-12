@@ -10,49 +10,113 @@
 
 I love programming in **C++**, solving problems, and creatively implementing C++ logic into user interfaces using modern frontend technologies.
 
+---
+
 ### 🧠 Tech Stack
-```yaml
-Languages: C++, JavaScript
-Frontend: HTML, CSS, JS
-Database: MongoDB
 
-🚀 Projects Showcase
-<details> <summary>💸 Personal Finance Visualizer</summary> <ul> <li>Tech: TypeScript</li> <li>Visualizes income, expenses, and savings</li> <li><a href="https://github.com/priyapri-23/personal-finance-visualiser">View Repo</a></li> </ul> </details>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<details> <summary>📋 Task Manager App</summary> <ul> <li>Tech: JavaScript</li> <li>CRUD operations with task tracking</li> <li><a href="https://github.com/priyapri-23/Task-Manager-App">View Repo</a></li> </ul> </details>
+---
 
-<details> <summary>🧮 Number System Conversion in C++</summary> <ul> <li>Tech: C++</li> <li>Binary, decimal, hexadecimal conversions</li> <li><a href="https://github.com/priyapri-23/Number_System_Conversion_in_cpp">View Repo</a></li> </ul> </details>
+### 🚀 Project Showcase
 
-<details> <summary>🗞️ News App (React)</summary> <ul> <li>Tech: JavaScript, React</li> <li>Fetches and displays news articles</li> <li><a href="https://github.com/priyapri-23/News-App-React">View Repo</a></li> </ul> </details>
+<details>
+  <summary>💸 Personal Finance Visualizer</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> TypeScript</li>
+    <li><strong>Features:</strong> Visualizes income, expenses, and savings</li>
+    <li><a href="https://github.com/priyapri-23/personal-finance-visualiser">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-<details> <summary>🗣️ Speech-to-Text Recognition</summary> <ul> <li>Tech: Python (Jupyter Notebook)</li> <li>Converts spoken words into text</li> <li><a href="https://github.com/priyapri-23/Speech-To-Text-Recognition">View Repo</a></li> </ul> </details>
+<details>
+  <summary>📋 Task Manager App</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> JavaScript</li>
+    <li><strong>Features:</strong> CRUD operations with task tracking</li>
+    <li><a href="https://github.com/priyapri-23/Task-Manager-App">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-<details> <summary>🧾 Resume Builder</summary> <ul> <li>Tech: JavaScript</li> <li>Generates resumes from user input</li> <li><a href="https://github.com/priyapri-23/Resume-Builder">View Repo</a></li> </ul> </details>
+<details>
+  <summary>🧮 Number System Conversion in C++</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> C++</li>
+    <li><strong>Features:</strong> Binary, decimal, hexadecimal conversions</li>
+    <li><a href="https://github.com/priyapri-23/Number_System_Conversion_in_cpp">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-<details> <summary>📊 Student Dashboard</summary> <ul> <li>Tech: JavaScript</li> <li>Displays student data and performance</li> <li><a href="https://github.com/priyapri-23/Student-Dashboard">View Repo</a></li> </ul> </details>
+<details>
+  <summary>🗞️ News App (React)</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> JavaScript, React</li>
+    <li><strong>Features:</strong> Fetches and displays news articles</li>
+    <li><a href="https://github.com/priyapri-23/News-App-React">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-<details> <summary>📚 Book Management System</summary> <ul> <li>Tech: JavaScript</li> <li>Manages book inventory and details</li> <li><a href="https://github.com/priyapri-23/Book-Management-System">View Repo</a></li> </ul> </details>
+<details>
+  <summary>🗣️ Speech-to-Text Recognition</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> Python (Jupyter Notebook)</li>
+    <li><strong>Features:</strong> Converts spoken words into text</li>
+    <li><a href="https://github.com/priyapri-23/Speech-To-Text-Recognition">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyapri-23&show_icons=true&theme=tokyonight" alt="Priya's GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapri-23&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<details>
+  <summary>🧾 Resume Builder</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> JavaScript</li>
+    <li><strong>Features:</strong> Generates resumes from user input</li>
+    <li><a href="https://github.com/priyapri-23/Resume-Builder">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-🌐 Connect With Me
-💼 LinkedIn
+<details>
+  <summary>📊 Student Dashboard</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> JavaScript</li>
+    <li><strong>Features:</strong> Displays student data and performance</li>
+    <li><a href="https://github.com/priyapri-23/Student-Dashboard">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-📫 Email: your.email@example.com
+<details>
+  <summary>📚 Book Management System</summary>
+  <ul>
+    <li><strong>Tech Stack:</strong> JavaScript</li>
+    <li><strong>Features:</strong> Manages book inventory and details</li>
+    <li><a href="https://github.com/priyapri-23/Book-Management-System">🔗 View Repository</a></li>
+  </ul>
+</details>
 
-Thanks for visiting! Let’s build something amazing together. 🚀
-<!--
-**priyapri-23/priyapri-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyapri-23&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Priya's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapri-23&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/priya-priya-14980122b/)
+- 📫 Email: priyap25112003@gmail.com
+
+---
+
+_Thanks for visiting! Let’s build something amazing together._ 🚀
