@@ -47,17 +47,23 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyapri-23&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Priya's GitHub Stats" />
-  <br/>
-  ### 📊 GitHub Stats
+<div align="center">
 
+<!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=00599C&currStreakLabel=00599C)](https://github.com/priyapri-23)
 
+<!-- GitHub Profile Stats -->
+[![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyapri-23&show_icons=true&theme=tokyonight&hide=stars&count_private=true)](https://github.com/priyapri-23)
 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapri-23&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyapri-23&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/priyapri-23)
+
+<!-- Tech Focus Badges -->
+<br>
+
+
+</div>
+
 ---
 
 ### 📫 Connect With Me
