@@ -47,8 +47,14 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyapri-23&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Priya's GitHub Stats" />
+  <br/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight)
 
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapri-23&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Connect With Me
