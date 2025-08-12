@@ -50,7 +50,7 @@
 <div align="center">
 
 <!-- GitHub Streak -->
-[!(https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=00599C&currStreakLabel=00599C)](https://github.com/priyapri-23)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=00599C&currStreakLabel=00599C)](https://github.com/priyapri-23)
 
 <!-- GitHub Profile Stats -->
 [![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyapri-23&show_icons=true&theme=tokyonight&hide=stars&count_private=true)](https://github.com/priyapri-23)
