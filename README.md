@@ -68,9 +68,11 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **priyap25112003@gmail.com**
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyapri-23)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyapri-23)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyapri-23&label=👀+Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 ---
 
 <p align="center">Thanks for visiting! Let’s build something amazing together. 🚀</p>
