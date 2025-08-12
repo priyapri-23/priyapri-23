@@ -6,10 +6,11 @@
 ---
 
 ### 💡 About Me
-- 🎓 B.Tech CSE, Class of 2025
-- 💖 Passionate about **C++** and problem-solving
-- 🧠 I love applying backend logic to frontend interfaces
-- 🔍 Currently diving deep into **Java**, **Spring Boot**, and **Web Development**
+- 🎓 B.Tech CSE, Batch of 2025
+- 💖 Passionate about **C++** and problem-solving along 
+- 🌐 Interested in web development, system design, and AI-powered interfaces
+
+- 📚 Currently learning Java, Spring Boot, and deepening my understanding of scalable architectures
 - 🌟 Curious, creative, and always iterating to improve
 
 ---
@@ -46,15 +47,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyapri-23&theme=tokyonight)
 
 ---
 
 ### 📫 Connect With Me
 - 📧 Email: **priyap25112003@gmail.com**
-- 🌐 GitHub: [priyapri-23](https://github.com/priyapri-23)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyapri-23)
+
 
 ---
 
