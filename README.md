@@ -58,11 +58,8 @@
 <!-- Top Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyapri-23&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/priyapri-23)
 
-<!-- Tech Focus Badges -->
-<br>
-
-
 </div>
+
 
 ---
 
